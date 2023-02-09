@@ -17,3 +17,4 @@ Note:
 
 * There is a wait time after each generated code to avoid API exceptions regarding limited token exchange rate per minute.
 * Category wise results can be observed in the results folder for all the experimental tests
+* An API key from OpenAI is necessary to execute this project. Communication via API is only possible after saving API key obtained through their private beta as an environment variable
